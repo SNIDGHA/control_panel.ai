@@ -161,6 +161,12 @@ Click **Run Demo Sequence** in the sidebar. This sequentially executes all 6 ris
 
 ---
 
+## ⚖️ Real-World Governance & Complexities
+
+For an analysis of how ControlPlane.ai handles latency budgets, fact verification, overlapping risk categories, and alert tuning inside production enterprise systems, see our architectural overview: [governance_considerations.md](file:///c:/Users/snigd/OneDrive/Desktop/control_panel.ai/docs/architecture/governance_considerations.md).
+
+---
+
 ## 🔮 Future Improvements
 
 - **Production-Grade Tracing**: Integration of OpenTelemetry and distributed request tracing.
